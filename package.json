@@ -1,0 +1,11 @@
+{
+  "name": "mario_kart",
+  "version": "0.0.1",
+  "description": "Jogo do Mario Kart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Guimarães",
+  "license": "ISC"
+}
